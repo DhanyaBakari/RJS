@@ -1,0 +1,26 @@
+"users": {
+    {
+    "Name": "Rajhans",
+    "Time" : "45min",
+    "status" :"Non AC",
+    "cost of travel": "100rs" ,
+    "Seats": "Available",
+    "Status" :"Active"
+}
+{
+    "Name": "Rajhans",
+    "Time" : "60min",
+    "status" :"AC",
+    "cost of travel": "160rs" ,
+    "Seats": "UnAvailable",
+    "Status" :"Active"
+}
+{
+    "Name": "KSRTC",
+    "Time" : "45min",
+    "status" :"Ordinary",
+    "cost of travel": "60rs" ,
+    "Seats": "Available",
+    "Status" :"Active"
+}
+}
